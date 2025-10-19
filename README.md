@@ -16,9 +16,6 @@
 
 ---
 
-## Screenshots
-
-*(Add screenshots or GIFs of the carousel and fullscreen view here)*
 
 ---
 
